@@ -53,9 +53,7 @@ export default function Porta(props) {
   }
   return (
     <>
-      <div className={styles.portasBox}>
-        {porta()}
-      </div>
+      {porta()}
     </>
   );
 }
