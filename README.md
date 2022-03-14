@@ -1,6 +1,6 @@
 ### Desafio Monty-Hall
 
-Este é um desafio, proposto na disciplina de Arquitetura e Desenvolvimento Web, com o intuíto de praticar Next.js
+Este é um desafio, proposto na disciplina de Arquitetura e Desenvolvimento Web, com o intuito de praticar Next.js
 
 
 
